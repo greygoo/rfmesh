@@ -5,6 +5,7 @@
 #include <RHMesh.h>
 #include <RH_RF22.h>
 #include <SPI.h>
+#include "rfmesh.h"
 
 // set default address to 0;
 int ID = 0;
